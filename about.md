@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-## About
+
 
 As an experienced programmer, I provide a range of software development and technology solutions tailored to meet individual and business needs. My expertise covers several programming languages and platforms, allowing me to deliver reliable, scalable, and high-performance applications.
 
